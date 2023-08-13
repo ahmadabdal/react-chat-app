@@ -4,7 +4,7 @@ The React Chat App is a single-page chat application built with ReactJS. It allo
 
 ## Hosted URL
 
-https://chatting-app-jjtv.onrender.com/
+https://reactchatappcn.netlify.app/
 
 ## Basic Task
 
