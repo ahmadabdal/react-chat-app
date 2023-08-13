@@ -25,7 +25,7 @@ Additionally, each message should include a like button on the right end, which 
 
 ## Getting Started:
 
-1. Clone the repository: `git clone https://github.com/rajendrasarak90/React-Chat-App.git`
+1. Clone the repository: 'git clone https://github.com/ahmadabdal/react-chat-app/'
 2. Navigate to the project directory: `cd react-chat-app`
 3. Install the dependencies: `npm install`
 4. Start the application: `npm start`
